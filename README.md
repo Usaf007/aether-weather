@@ -1,7 +1,6 @@
 # 🌤️ Aether Weather | Cinematic Live Forecast
 
-![Project Banner](public/banner-placeholder.png) 
-
+![Project Banner](banner-placeholder.png)
 
 ## 🚀 Overview
 **Aether Weather** is a production-grade, responsive weather dashboard engineered with React.js and Vite. It features a cinematic, glassmorphism UI that dynamically adapts to real-time weather conditions and time of day (Day/Night cycles).
@@ -52,13 +51,10 @@ Unlike standard weather apps, Aether focuses on **immersive user experience**, u
     ```
 
 ## 📱 Live Demo
-[Check out the live application here](https://your-project-name.vercel.app)
+[Check out the live application here](https://aether-weather-tau.vercel.app)
 
 ---
 
-### 👨‍💻 Author
-**Yousaf Atiq**
-* **GitHub:** [github.com/Usaf007](https://github.com/Usaf007)
-
----
-*© 2026 Aether Weather. All rights reserved.*
+<p align="center">
+  Made with 💙 and React by <strong>Usaf</strong>
+</p>
