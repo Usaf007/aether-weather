@@ -51,7 +51,7 @@ Unlike standard weather apps, Aether focuses on **immersive user experience**, u
     ```
 
 ## 📱 Live Demo
-[Check out the live application here](https://aether-weather-tau.vercel.app)
+[Check out the live application here](https://aether-weather-nine.vercel.app)
 
 ---
 
